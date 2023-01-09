@@ -19,7 +19,7 @@ export function History() {
           <tbody>
             <tr>
               <td>Tarefa</td>
-              <td>20 inutos</td>
+              <td>20 Minutos</td>
               <td>Há 2 Meses</td>
               <td>
                 <Status statusColor="red">Interrompido</Status>
@@ -27,7 +27,7 @@ export function History() {
             </tr>
             <tr>
               <td>Tarefa</td>
-              <td>20 inutos</td>
+              <td>20 Minutos</td>
               <td>Há 2 Meses</td>
               <td>
                 <Status statusColor="green">Concluido</Status>
@@ -35,7 +35,7 @@ export function History() {
             </tr>
             <tr>
               <td>Tarefa</td>
-              <td>20 inutos</td>
+              <td>20 Minutos</td>
               <td>Há 2 Meses</td>
               <td>
                 <Status statusColor="yellow">Em Andamento</Status>
@@ -43,7 +43,7 @@ export function History() {
             </tr>
             <tr>
               <td>Tarefa</td>
-              <td>20 inutos</td>
+              <td>20 Minutos</td>
               <td>Há 2 Meses</td>
               <td>
                 <Status statusColor="green">Concluido</Status>
@@ -51,7 +51,7 @@ export function History() {
             </tr>
             <tr>
               <td>Tarefa</td>
-              <td>20 inutos</td>
+              <td>20 Minutos</td>
               <td>Há 2 Meses</td>
               <td>
                 <Status statusColor="green">Concluido</Status>
